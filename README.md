@@ -53,7 +53,7 @@ Las principales tecnologías y herramientas utilizadas fueron:
 
 1. Clona el repositorio:
     ```
-    git clone https://github.com/AlexisGR117/POOB-Proyecto.git
+    git clone https://github.com/SebZaUr/DaPoos.git
     ```
 2. Navega a la carpeta del proyecto:
     ```
